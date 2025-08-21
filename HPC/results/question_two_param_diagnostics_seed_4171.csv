@@ -1,0 +1,7 @@
+"model","parameter","ci_lower","ci_upper","ci_width_mean","point_estimate","RMSE","CI_True","CI_False"
+"two.two.mcmc","null_sites",4.58068065212655,9.90303468516019,5.32235403303363,7.37792434015725,NA,NA,NA
+"two.two.mcmc","inv_sites",0.000467607967482338,0.121413722786891,0.120946114819409,0.0294657151181883,NA,NA,NA
+"two.two.vb.mf","null_sites",8.39013275,9.83334425,1.4432115,9.36753173,NA,NA,NA
+"two.two.vb.mf","inv_sites",0.00287766575,0.1151803,0.11230263425,0.030137863887,NA,NA,NA
+"two.two.vb.fr","null_sites",1.58323675,2.36775575,0.784519,1.95679891,NA,NA,NA
+"two.two.vb.fr","inv_sites",0.2700496,5.01175875,4.74170915,1.8491522652,NA,NA,NA

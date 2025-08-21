@@ -1,0 +1,15 @@
+# Record of every significant change to the original code
+- All stan models have the following chunk of code at the end:
+  ////////////////////////////////////////////////////////////////
+  ////////  >>>  FOR ESTIMATING PARETO-K AFTERWARDS  <<<  ////////
+  generated quantities {
+    vector[Ntotal] log_lik;
+    for (i in 1:Ntotal)
+      log_lik[i] = bernoulli_logit_lpmf(presence[i] | predictions[i]);
+  }
+////////////////////////////////////////////////////////////////
+  ////////////////////////////////////////////////////////////////
+  
+
+- "one.three.stan.code" and "three.one.stan.code" have the prior lam_int, 
+  lam_slp and lam_partner_int restricted to upper=1 to help VB converge
