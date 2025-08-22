@@ -1,0 +1,61 @@
+References:
+
+Adams, D.C., Collyer, M.L., 2024. Extending phylogenetic regression models for comparing within‐species patterns across the tree of life. Methods Ecol Evol 15, 2234–2246. https://doi.org/10.1111/2041-210X.14438
+Aguiar de Souza Penha, V., 2024. Sex, moulting dynamics, and reproductive status in Atlantic Forest tanagers and their collective impact on body condition. Emu - Austral Ornithology 124, 177–186. https://doi.org/10.1080/01584197.2024.2328675
+Aguiar de Souza Penha, V., De La Torre, G.M., 2025. The relationship between habitat breadth, climate, local species diversity, and avian body condition in the Atlantic Forest Biome. J Ornithol 166, 173–182. https://doi.org/10.1007/s10336-024-02200-0
+Asuncion, A., Welling, M., Smyth, P., Teh, Y.W., 2012. On Smoothing and Inference for Topic Models. https://doi.org/10.48550/arXiv.1205.2662
+Baele, G., Gill, M.S., Bastide, P., Lemey, P., Suchard, M.A., 2021. Markov-Modulated Continuous-Time Markov Chains to Identify Site- and Branch-Specific Evolutionary Variation in BEAST. Systematic Biology 70, 181–189. https://doi.org/10.1093/sysbio/syaa037
+Baker, J., Meade, A., Pagel, M., Venditti, C., 2021. Nothing Wrong with the Analysis of Clades in Comparative Evolutionary Studies: A Reply to Poe et al. Systematic Biology 70, 197–201. https://doi.org/10.1093/sysbio/syaa067
+Beck, J.J., Li, D., Johnson, S.E., Rogers, D., Cameron, K.M., Sytsma, K.J., Givnish, T.J., Waller, D.M., 2022. Functional traits mediate individualistic species‐environment distributions at broad spatial scales while fine‐scale species associations remain unpredictable. Am J Bot 109, 1991–2005. https://doi.org/10.1002/ajb2.16085
+Blei, D.M., Kucukelbir, A., McAuliffe, J.D., 2017. Variational Inference: A Review for Statisticians. Journal of the American Statistical Association 112, 859–877. https://doi.org/10.1080/01621459.2017.1285773
+Blomberg, S.P., Lefevre, J.G., Wells, J.A., Waterhouse, M., 2012. Independent Contrasts and PGLS Regression Estimators Are Equivalent. Systematic Biology 61, 382–391. https://doi.org/10.1093/sysbio/syr118
+Bollback, J.P., 2006. SIMMAP: Stochastic character mapping of discrete traits on phylogenies. BMC Bioinformatics 7, 88. https://doi.org/10.1186/1471-2105-7-88
+Caetano, D.S., O’Meara, B.C., Beaulieu, J.M., 2018. Hidden state models improve state-dependent diversification approaches, including biogeographical models. Evolution 72, 2308–2324. https://doi.org/10.1111/evo.13602
+Cornwell, W., Nakagawa, S., 2017. Phylogenetic comparative methods. Current Biology 27, R333–R336. https://doi.org/10.1016/j.cub.2017.03.049
+Davies, T.J., Fritz, S.A., Grenyer, R., Orme, C.D.L., Bielby, J., Bininda-Emonds, O.R.P., Cardillo, M., Jones, K.E., Gittleman, J.L., Mace, G.M., Purvis, A., 2008. Phylogenetic trees and the future of mammalian biodiversity. Proceedings of the National Academy of Sciences 105, 11556–11563. https://doi.org/10.1073/pnas.0801917105
+Felsenstein, J., 1985. Phylogenies and the Comparative Method. The American Naturalist 125, 1–15. https://doi.org/10.1086/284325
+Fourment, M., Macaulay, M., Swanepoel, C.J., Ji, X., Suchard, M.A., IV, F.A.M., 2025. torchtree: flexible phylogenetic model development and inference using PyTorch. Syst Biol syaf047. https://doi.org/10.1093/sysbio/syaf047
+Freckleton, R.P., Harvey, P.H., Pagel, M., 2002. Phylogenetic Analysis and Comparative Data: A Test and Review of Evidence. The American Naturalist 160, 712–726. https://doi.org/10.1086/343873
+Gallinat, A.S., Pearse, W.D., 2021. Phylogenetic generalized linear mixed modeling presents novel opportunities for eco-evolutionary synthesis. Oikos 130, 669–679. https://doi.org/10.1111/oik.08048
+GARLAND, T., JR., MIDFORD, P.E., IVES, A.R., 1999. An Introduction to Phylogenetically Based Statistical Methods, with a New Method for Confidence Intervals on Ancestral Values1. American Zoologist 39, 374–388. https://doi.org/10.1093/icb/39.2.374
+Gunapati, G., Jain, A., Srijith, P.K., Desai, S., 2022. Variational inference as an alternative to MCMC for parameter estimation and model selection. Publications of the Astronomical Society of Australia 39, e001. https://doi.org/10.1017/pasa.2021.64
+Hadfield, J.D., 2015. Increasing the efficiency of MCMC for hierarchical phylogenetic models of categorical traits using reduced mixed models. Methods in Ecology and Evolution 6, 706–714. https://doi.org/10.1111/2041-210X.12354
+Hadfield, J.D., 2010. MCMC Methods for Multi-Response Generalized Linear Mixed Models: The MCMCglmm R Package. Journal of Statistical Software 33, 1–22. https://doi.org/10.18637/jss.v033.i02
+Hadfield, J.D., Nakagawa, S., 2010. General quantitative genetic methods for comparative biology: phylogenies, taxonomies and multi-trait models for continuous and categorical characters. J Evol Biol 23, 494–508. https://doi.org/10.1111/j.1420-9101.2009.01915.x
+Halliwell, B., Holland, B.R., Yates, L.A., 2025. Multi‐response phylogenetic mixed models: concepts and application. Biol Rev Camb Philos Soc 100, 1294–1316. https://doi.org/10.1111/brv.70001
+Harvey, P.H., Pagel, M.D., 1991. The Comparative Method in Evolutionary Biology. Oxford University Press, Oxford.
+Huggins, J.H., Kasprzak, M., Campbell, T., Broderick, T., 2020. Validated Variational Inference via Practical Posterior Error Bounds. https://doi.org/10.48550/arXiv.1910.04102
+Ives, A.R., 2019. R$^{2}$s for Correlated Data: Phylogenetic Models, LMMs, and GLMMs. Syst Biol 68, 234–251. https://doi.org/10.1093/sysbio/syy060
+Ives, A.R., Helmus, M.R., 2011. Generalized linear mixed models for phylogenetic analyses of community structure. Ecological Monographs 81, 511–525. https://doi.org/10.1890/10-1264.1
+Li, D., Dinnage, R., Nell, L.A., Helmus, M.R., Ives, A.R., 2020. phyr: An r package for phylogenetic species-distribution modelling in ecological communities. Methods in Ecology and Evolution 11, 1455–1463. https://doi.org/10.1111/2041-210X.13471
+Luiselli, J., Overcast, I., Rominger, A., Ruffley, M., Morlon, H., Rosindell, J., 2024. Detecting the ecological footprint of selection. PLOS ONE 19, e0302794. https://doi.org/10.1371/journal.pone.0302794
+Lynch, M., 1991. METHODS FOR THE ANALYSIS OF COMPARATIVE DATA IN EVOLUTIONARY BIOLOGY. Evolution 45, 1065–1080. https://doi.org/10.1111/j.1558-5646.1991.tb04375.x
+Martins, E.P., Hansen, T.F., 1997. Phylogenies and the Comparative Method: A General Approach to Incorporating Phylogenetic Information into the Analysis of Interspecific Data. The American Naturalist 149, 646–667. https://doi.org/10.1086/286013
+Meade, A., Pagel, M., 2022. Ancestral State Reconstruction Using BayesTraits, in: Luo, H. (Ed.), Environmental Microbial Evolution: Methods and Protocols. Springer US, New York, NY, pp. 255–266. https://doi.org/10.1007/978-1-0716-2691-7_12
+Natesan, P., Nandakumar, R., Minka, T., Rubright, J.D., 2016. Bayesian Prior Choice in IRT Estimation Using MCMC and Variational Bayes. Front. Psychol. 7. https://doi.org/10.3389/fpsyg.2016.01422
+Nesterenko, L., Blassel, L., Veber, P., Boussau, B., Jacob, L., 2025. Phyloformer: Fast, Accurate, and Versatile Phylogenetic Reconstruction with Deep Neural Networks. Molecular Biology and Evolution 42, msaf051. https://doi.org/10.1093/molbev/msaf051
+Nesterenko, L., Boussau, B., Jacob, L., 2022. Phyloformer: towards fast and accurate phylogeny estimation with self-attention networks. https://doi.org/10.1101/2022.06.24.496975
+Nummenmaa, A., Auranen, T., Hämäläinen, M.S., Jääskeläinen, I.P., Lampinen, J., Sams, M., Vehtari, A., 2007. Hierarchical Bayesian estimates of distributed MEG sources: Theoretical aspects and comparison of variational and MCMC methods. NeuroImage 35, 669–685. https://doi.org/10.1016/j.neuroimage.2006.05.001
+Opper, M., Archambeau, C., 2009. The Variational Gaussian Approximation Revisited. Neural Comput 21, 786–792. https://doi.org/10.1162/neco.2008.08-07-592
+Ormerod, J.T., Wand, M.P., 2012. Gaussian Variational Approximate Inference for Generalized Linear Mixed Models. Journal of Computational and Graphical Statistics 21, 2–17. https://doi.org/10.1198/jcgs.2011.09118
+Ormerod, J.T., Wand, M.P., 2010. Explaining Variational Approximations. The American Statistician 64, 140–153. https://doi.org/10.1198/tast.2010.09058
+Pagel, M., 1999. Inferring the historical patterns of biological evolution. Nature 401, 877–884. https://doi.org/10.1038/44766
+Pagel, M., Meade, A., 2004. A phylogenetic mixture model for detecting pattern-heterogeneity in gene sequence or character-state data. Syst Biol 53, 571–581. https://doi.org/10.1080/10635150490468675
+Pagel, M., Meade, A., Barker, D., 2004. Bayesian Estimation of Ancestral Character States on Phylogenies. Systematic Biology 53, 673–684. https://doi.org/10.1080/10635150490522232
+Pagel, M., O’Donovan, C., Meade, A., 2022. General statistical model shows that macroevolutionary patterns and processes are consistent with Darwinian gradualism. Nat Commun 13, 1113. https://doi.org/10.1038/s41467-022-28595-z
+Pearse, W.D., Davies, T.J., Wolkovich, E.M., 2025. How to Define, Use, and Interpret Pagel’s \ łambda \ (Lambda) in Ecology and Evolution. Global Ecology and Biogeography 34, e70012. https://doi.org/10.1111/geb.70012
+Pinheiro, D., Santander-Jimenéz, S., Ilic, A., 2022. PhyloMissForest: a random forest framework to construct phylogenetic trees with missing data. BMC Genomics 23, 377. https://doi.org/10.1186/s12864-022-08540-6
+Ranganath, R., Gerrish, S., Blei, D.M., 2013. Black Box Variational Inference. https://doi.org/10.48550/arXiv.1401.0118
+Sain, R., Mittal, V., Gupta, V., 2015. A comprehensive review on recent advances in Variational Bayesian inference, in: 2015 International Conference on Advances in Computer Engineering and Applications. Presented at the 2015 International Conference on Advances in Computer Engineering and Applications, pp. 488–492. https://doi.org/10.1109/ICACEA.2015.7164793
+Tan, L.S.L., Nott, D.J., 2014. A stochastic variational framework for fitting and diagnosing generalized linear mixed models. Bayesian Anal. 9. https://doi.org/10.1214/14-BA885
+Tan, L.S.L., Nott, D.J., 2013. Variational Inference for Generalized Linear Mixed Models Using Partially Noncentered Parametrizations. Statistical Science 28, 168–188. https://doi.org/10.1214/13-STS418
+Thomas, G.H., Hartmann, K., Jetz, W., Joy, J.B., Mimoto, A., Mooers, A.O., 2013. PASTIS: an R package to facilitate phylogenetic assembly with soft taxonomic inferences. Methods in Ecology and Evolution 4, 1011–1017. https://doi.org/10.1111/2041-210X.12117
+Tikhonov, G., Opedal, Ø.H., Abrego, N., Lehikoinen, A., de Jonge, M.M.J., Oksanen, J., Ovaskainen, O., 2020. Joint species distribution modelling with the r-package Hmsc. Methods in Ecology and Evolution 11, 442–447. https://doi.org/10.1111/2041-210X.13345
+Tirronen, M., Kuparinen, A., 2024. Parameter estimation for allometric trophic network models: A variational Bayesian inverse problem approach. Methods in Ecology and Evolution 15, 2373–2384. https://doi.org/10.1111/2041-210X.14447
+Trucchi, E., Gratton, P., Mafessoni, F., Motta, S., Cicconardi, F., Mancia, F., Bertorelle, G., D’Annessa, I., Di Marino, D., 2021. Population Dynamics and Structural Effects at Short and Long Range Support the Hypothesis of the Selective Advantage of the G614 SARS-CoV-2 Spike Variant. Mol Biol Evol 38, 1966–1979. https://doi.org/10.1093/molbev/msaa337
+Veen, B. van der, O’Hara, R.B., 2025. Fast fitting of phylogenetic mixed-effects models. https://doi.org/10.48550/arXiv.2408.05333
+Vehtari, A., Gelman, A., Gabry, J., 2017. Practical Bayesian model evaluation using leave-one-out cross-validation and WAIC. Statistics and Computing 27, 1413–1432. https://doi.org/10.1007/s11222-016-9696-4
+Wainwright, M.J., Jordan, M.I., 2008. Graphical Models, Exponential Families, and Variational Inference. MAL 1, 1–305. https://doi.org/10.1561/2200000001
+Yao, Y., Vehtari, A., Simpson, D., Gelman, A., 2018. Yes, but Did It Work?: Evaluating Variational Inference. https://doi.org/10.48550/arXiv.1802.02538
+Zhang, C., Butepage, J., Kjellstrom, H., Mandt, S., 2018. Advances in Variational Inference. https://doi.org/10.48550/arXiv.1711.05597
+
